@@ -1,1 +1,3 @@
-# Codility_algorithm
+# Codility_python
+
+Codility lessons solved in python:
