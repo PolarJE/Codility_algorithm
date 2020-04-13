@@ -8,9 +8,9 @@ Codility : https://app.codility.com/programmers/
 
 ### Lesson 2 Arrays
 - CyclicRotation
+- OddOccurrenceslnArray
 
 ### Lesson 3 Time Complexity
-
 
 ### Lesson 4 Counting Elements
 
